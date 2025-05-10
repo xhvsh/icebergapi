@@ -213,10 +213,6 @@
       "explanation": ""
     },
     {
-      "phrase": "naklejki",
-      "explanation": ""
-    },
-    {
       "phrase": "hardcore",
       "explanation": ""
     },
@@ -470,6 +466,14 @@
     },
     {
       "phrase": "Jak się piszę 4",
+      "explanation": ""
+    },
+    {
+    "phrase": "londyn",
+      "explanation": ""
+    ),
+    {
+    "phrase": "S.Dali",
       "explanation": ""
     }
   ]
